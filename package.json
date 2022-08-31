@@ -1,0 +1,17 @@
+{
+  "name": "yoga-ts-4.8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@envelop/core": "^2.5.0",
+    "graphql": "^16.6.0",
+    "typescript": "^4.8.2"
+  }
+}
